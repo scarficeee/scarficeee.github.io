@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://rifaldy-rizqya-portfolio.rifaldy.chatgpt.site/sitemap.xml

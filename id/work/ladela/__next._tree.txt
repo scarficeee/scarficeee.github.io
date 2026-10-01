@@ -1,0 +1,2 @@
+:HL["/_next/static/css/235b935975f343d3.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(id)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"id","param":null,"prefetchHints":4192,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ladela","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"W2Rr8nN8f6g_LJK4oK_0s"}
